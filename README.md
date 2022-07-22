@@ -22,3 +22,6 @@ Open [this](http://localhost:8081/SpriteAssembler.html) in Google Chrome and sel
 ## Not Implemented
 - Label Data is not retrieved
 - Effect Data is not retrieved
+
+## Sample
+![Attack1](https://user-images.githubusercontent.com/8841957/180496891-323d040e-d390-4ad0-ab2f-e69c12359e03.gif)
