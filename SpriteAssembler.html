@@ -504,7 +504,7 @@
           count++;
           loaded();
         }
-        img.src = textureURLArray[i];
+        img.src = filename.substring(0, filename.lastIndexOf('/') + 1) + textureURLArray[i];
         img.id = textureURLArray[i].substring(textureURLArray[i].lastIndexOf('/') + 1, textureURLArray[i].lastIndexOf('.'));
         img.style.border = '1px solid #000';
 
